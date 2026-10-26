@@ -1,5 +1,5 @@
 [
-  import { createTestEnv, req, kitty } from "utils"
+{  import { createTestEnv, req, kitty } from "utils"
 
 interface IVod {
   url: string
@@ -145,7 +145,7 @@ const call = new Ysxqcc();
   env.set("movieId", "/voddetail/150314.html" /*search[0].id*/)
   const detail = await call.getDetail()
   debugger
-})(),
+})()},
 {
     "id": "duonaovod",
     "name": "多瑙影院",
