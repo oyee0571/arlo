@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "key": "lb",
+    "name": "乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18禁",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 2,
+    "key": "sy",
+    "name": "shayu",
+    "api": "https://shayuapi.com/api.php/Seacms/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18禁",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "id": 3,
+    "key": "ct",
+    "name": "苍天",
+    "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18禁",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "id": 4,
+    "key": "awsltv",
+    "name": "AWSLTV",
+    "api": "http://www.awsltv.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "常用组",
+    "isActive": true,
+    "reverseOrder": false
+  }
+]
