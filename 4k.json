@@ -1,0 +1,130 @@
+[
+ {
+ "id": "duse0-com-001",
+ "name": "毒舌电影高清点播",
+ "type": 0,
+ "logo": "https://www.duse0.com/favicon.ico",
+ "desc": "基于duse0.com的影视线路，支持高清点播",
+ "nsfw": false,
+ "status": true,
+ "api": "https://www.duse0.com/api.php/provide/vod/",
+ "extra": {
+ "gfw": false,
+ "searchLimit": 20,
+ "category": ""
+ }
+ },
+
+{
+ "id": "hongniu-zy-001",
+ "name": "红牛资源",
+ "type": 0,
+ "logo": "",
+ "desc": "国内速度优，更新快，提供高清m3u8线路",
+ "nsfw": false,
+ "status": true,
+ "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+ "extra": {
+ "gfw": false,
+ "searchLimit": 20
+ }
+ },
+ {
+ "id": "liangzi-zy-001",
+ "name": "量子资源",
+ "type": 0,
+ "logo": "",
+ "desc": "老牌资源站，线路稳定，高清资源丰富",
+ "nsfw": false,
+ "status": true,
+ "api": "https://cj.lziapi.com/api.php/provide/vod/",
+ "extra": {
+ "gfw": false,
+ "searchLimit": 20
+ }
+ },
+ {
+ "id": "wolong-zy-001",
+ "name": "卧龙资源",
+ "type": 0,
+ "logo": "",
+ "desc": "无防盗链，高清资源可直接播放",
+ "nsfw": false,
+ "status": true,
+ "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+ "extra": {
+ "gfw": false,
+ "searchLimit": 20
+ }
+ },
+ {
+ "id": "360-zy-001",
+ "name": "360资源",
+ "type": 0,
+ "logo": "",
+ "desc": "资源量较大，线路较多",
+ "nsfw": false,
+ "status": true,
+ "api": "https://360zyzz.com/api.php/provide/vod",
+ "extra": {
+ "gfw": false,
+ "searchLimit": 20
+ }
+ },
+ {
+ "id": "guangsu-zy-001",
+ "name": "光速资源",
+ "type": 0,
+ "logo": "",
+ "desc": "提供多条高清播放线路",
+ "nsfw": false,
+ "status": true,
+ "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+ "extra": {
+ "gfw": false,
+ "searchLimit": 20
+ }
+ },
+ {
+ "id": "jinying-zy-001",
+ "name": "金鹰资源",
+ "type": 0,
+ "logo": "",
+ "desc": "低延迟线路，播放体验较流畅",
+ "nsfw": false,
+ "status": true,
+ "api": "https://jinyingzy.com/api.php/provide/vod/",
+ "extra": {
+ "gfw": false,
+ "searchLimit": 20
+ }
+ },
+ {
+ "id": "heimm-zy-001",
+ "name": "黑木耳资源",
+ "type": 0,
+ "logo": "",
+ "desc": "更新及时，包含高清线路",
+ "nsfw": false,
+ "status": true,
+ "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+ "extra": {
+ "gfw": false,
+ "searchLimit": 20
+ }
+ },
+ {
+ "id": "douban-zy-001",
+ "name": "豆瓣资源",
+ "type": 0,
+ "logo": "",
+ "desc": "资源分类清晰，便于查找高清版本",
+ "nsfw": false,
+ "status": true,
+ "api": "https://dbzy.tv/api.php/provide/vod",
+ "extra": {
+ "gfw": false,
+ "searchLimit": 20
+ }
+ }
+]
